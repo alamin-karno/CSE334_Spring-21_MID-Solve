@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WP MID Spring 2021</string>
+    <string name="process_info">Process Info</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_student_id">Enter your student ID</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="go_to_next">Go To Next</string>
+</resources>
